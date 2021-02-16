@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Platformatory Blog
+title: Platformatory | Cloud Native Engineering Studio
+description: Thoughts on Engineering, Cloud & Enterprise Architecture.
 tags:
   - blog
   - template
@@ -13,23 +12,22 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
+  - title: Platformatory home
+    url: https://www.platformatory.com
   - title: Contact
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: hello@platformatory.com
 disqus_username: disqus_username
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
+github_username: platformatory
+twitter_username: platformatory
 instagram_username: instagram_username
-linkedin_username: linkedin_username
+linkedin_username: platformatory
 medium_username: medium_username
 
 
