@@ -103,5 +103,5 @@ version: v3.1.0
 # Custom headers
 webrick:
   headers:
-    Content-Security-Policy: frame-ancestors 'none';
-    X-Frame-Options: DENY
+    Content-Security-Policy: frame-ancestors https://*.hubspot.com;
+    X-Frame-Options: ALLOW
