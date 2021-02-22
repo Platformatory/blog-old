@@ -1,7 +1,7 @@
 # Site Settings
-name: Platformatory Blog
-title: Cloud native engineering studio | Platformatory blog
-description: Thoughts on engineering, architecture and the cloud
+name: Platformatory
+title: Platformatory | Cloud native engineering studio
+description: Thoughts on Platform Engineering, Modernization, DevSecvOps & Reliability Engineering 
 tags:
   - blog
   - template
@@ -13,13 +13,13 @@ menu:
   - title: Home
     url: /
   - title: About
-    url: https://platformatory.io/platformatory"
+    url: https://platformatory.io/platformatory
   - title: Contact
     url: /contact
   - title: Feed
     url: /feed.xml
 email: hello@platformatory.com
-disqus_username: disqus_username
+#disqus_username: disqus_username
 
 
 # Social Media Settings
@@ -27,7 +27,6 @@ disqus_username: disqus_username
 github_username: platformatory
 twitter_username: platformatory
 linkedin_username: platformatory
-# medium_username: medium_username
 
 
 # Posts Settings
@@ -39,7 +38,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://platformatory.io" # the base hostname & protocol for your site
 google_analytics: "G-PWW2W71JX1"
 language: "en"
 categories_folder: category
@@ -99,9 +98,3 @@ exclude: [
 
 # Theme
 version: v3.1.0
-
-# Custom headers
-webrick:
-  headers:
-    Content-Security-Policy: frame-ancestors https://*.hubspot.com;
-    X-Frame-Options: ALLOW

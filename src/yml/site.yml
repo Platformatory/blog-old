@@ -12,7 +12,7 @@ menu:
   - title: Home
     url: /
   - title: About
-    url: /about
+    url: https://platformatory.io/platformatory
   - title: Contact
     url: /contact
   - title: Feed
