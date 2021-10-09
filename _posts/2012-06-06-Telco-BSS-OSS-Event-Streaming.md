@@ -15,10 +15,10 @@ tags:
   - Event Processing
   - Streaming
   - Cloud Native
-author: Venkatesh K
+author: venkatesh
 ---
 The traditional BSS/OSS paradigm that sustained in the Telco Industry for decades is now undergoing a radical transformation. BSS comprise of systems for CRM, Order Capture and Billing. Similarly for OSS it encompasses Order Fulfilment, Network Inventory Management and Network Operations.
-The landscape was dominated by big vendors who offered “off-the-shelf” solutions that mysteriously needed “customization”. Most Telcos opted for a mix and match of best of breed solutions. The architecture also evolved to include an Enterprise Service Bus to integrate the systems along with ETL jobs to populate an Enterprise Sata warehouse.
+The landscape was dominated by big vendors who offered “off-the-shelf” solutions that mysteriously needed “customization”. Most Telcos opted for a mix and match of best of breed solutions. The architecture also evolved to include an Enterprise Service Bus to integrate the systems along with ETL jobs to populate an Enterprise Data warehouse.
 
 ![Traditional BSS OSS ](./../assets/img/BSSOSS.jpg "Traditional BSS OSS Architecture")
 
