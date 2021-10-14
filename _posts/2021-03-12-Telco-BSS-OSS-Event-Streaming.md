@@ -4,8 +4,8 @@ layout: post
 title: Evolving a Cloud-Native BSS/OSS for Telcos
 subtitle: Building an Event Streaming Platform on Kafka for Telcos
 description: BSS/OSS systems.
-image: 
-optimized_image: 
+image: imagery/OSSBSSCloud.jpg
+optimized_image: imagery/OSSBSSCloud.jpg
 category: 'Industry'
 tags:
   - Telcos

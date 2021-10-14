@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tips
-slug: tips
-description: A category for tips.
+title: Viewpoint
+slug: viewpoint
+description: A category for views.
 ---
